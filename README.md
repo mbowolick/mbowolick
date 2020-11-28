@@ -8,11 +8,13 @@ My favourite techologies that I enjoy working in are Python, JavaScript, and AWS
 - 🥅 2020 Goals: Get the AWS Solution Architect Associate certificate
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
 
-### Connect with me:
-
+### Connect with me: 
 [<img align="left" alt="mbowolick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 ---
+
 
 ### Languages and Tools:
 
@@ -71,5 +73,6 @@ My favourite techologies that I enjoy working in are Python, JavaScript, and AWS
 
 
 ---
+
 
 [linkedin]: https://www.linkedin.com/in/matthew-bowolick/
