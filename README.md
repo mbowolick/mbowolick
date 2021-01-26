@@ -4,7 +4,7 @@
 
 My favourite techologies that I enjoy working in are Python, JavaScript, and AWS. I’m a Sydney based IT professional with 7 plus years of experience in the digital industry with a tertiary education background in Information Technology and Mathematics. Currently I work for a digital agency helping delivery world class digital solutions for a large range of clients, brands, retail and B2B organisations. 
 
-- 🎓 Masters in Mathematics and bachelories in Computer Science
+- 🎓 Masters in Mathematics and bachelor's in Computer Science
 - 🌱 I’m currently learning different data science technologies and visualisation tools
 - 🥅 2021 Goals: Finish a finish a DS project with findings visualised
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
