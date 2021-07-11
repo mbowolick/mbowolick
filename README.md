@@ -10,7 +10,10 @@ My favourite techologies that I enjoy working in are Python, Node/JS, CSS and AW
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
 
 ### Connect with me: 
-[<img align="left" alt="mbowolick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="mbowolick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Projects: 
+- https://swatchable.io/ - a image colour processing service scalable to process hundreds of images at a time
 
 <br />
 
