@@ -6,7 +6,7 @@ My favourite techologies that I enjoy working in are Python, Node/JS, CSS and AW
 
 - 🎓 Masters in Mathematics and bachelor's in Computer Science
 - 🌱 I’m currently learning different React frameworks and getting fancy with CSS! 🤩  
-- 🥅 2021 Goals: Finish a React App with CSS all from scratch (as a challenge)
+- 🥅 2022 Goals: Learn and implement my first TypeScript React app, with a [Prisma](https://www.prisma.io/)/GraphQL enabled backend and [ChakraUI](https://chakra-ui.com/) design system frontend
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
 
 ### Connect with me: 
