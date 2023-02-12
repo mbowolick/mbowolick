@@ -5,9 +5,9 @@
 My favourite techologies at the moment I love working in are Node/TS, React and AWS. I’m a Sydney based IT professional with 8 plus years of experience in the digital and tech industry with a tertiary education background in Information Technology and Mathematics. Currently I work for Uber as a Partner Engineer helping scalably empower partners to adopt Uber’s products and services to derive optimal business value.
 
 - 🎓 Masters in Mathematics and bachelor's in Computer Science
-- 🤩 Obsessed with design and UX
-- 🌱 I’m currently learning different React frameworks and getting fancy with CSS! 🤩  
-- 🥅 2022 Goals: Learn and implement my first TypeScript React app, with a [Prisma](https://www.prisma.io/)/GraphQL enabled backend and [ChakraUI](https://chakra-ui.com/) design system frontend
+- 🤩 Obsessed with design, UX and different frontend technologies
+- 🌱 I’m currently learning different frontend frameworks and getting fancy with CSS! 🤩  
+- 🥅 2023 Goals: Master Next.js + Tailwind CSS!
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
 
 ### Connect with me: 
