@@ -14,7 +14,7 @@ My favourite techologies at the moment I love working in are Node/TS, React and 
 [<img alt="mbowolick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ### Projects: 
-- http://eazygoals.com/ - a simple goal and tasks app to track and keep progress moving [Vercel NextJS, TRPC, Prisma + Tailwind]
+- https://eazygoals.com/ - a simple goal and tasks app to track and keep progress moving [Vercel NextJS, TRPC, Prisma + Tailwind]
 - https://swatchable.io/ - a image colour processing service scalable to process hundreds of images at a time [Lightweight React, ML Computer Vision, S3 Bucket + Lambda Events]
 
 <br />
