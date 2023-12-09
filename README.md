@@ -14,8 +14,9 @@ My favourite techologies at the moment I love working in are React/TS, NextJS an
 [<img alt="mbowolick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/matthew-bowolick/)
 
 ### Projects
-- https://eazygoals.com/ - a simple goal and tasks app to track and keep progress moving [Vercel NextJS, TRPC, Prisma + Tailwind]
-- https://swatchable.io/ - a image colour processing service scalable to process hundreds of images at a time [Lightweight React, ML Computer Vision, S3 Bucket + Lambda Events]
+- https://mattbowolick.com/ [2023] - my personal site [Astro, React, Typescript, TailwindCSS + Vercel]
+- https://eazygoals.com/ [2023] - a simple goal and tasks app to track and keep progress moving [NextJS, Typescript, TRPC, Prisma, TailwindCSS + Vercel]
+- https://swatchable.io/ [2021] - a image colour processing service scalable to process hundreds of images at a time [Lightweight React, ML Computer Vision, S3 Bucket + Lambda Events]
 
 <br />
 
