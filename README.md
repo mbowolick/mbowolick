@@ -7,7 +7,9 @@ My favourite techologies at the moment I love working in are React/TS, NextJS an
 - 🤩 Obsessed with design, UX and different frontend technologies
 - 🎓 Masters in Mathematics and bachelor's in Computer Science
 - 🌱 I’m currently learning different frontend frameworks and getting fancy with CSS! 🤩  
-- 🥅 2023 Goals: ~~Master Next.js + Tailwind CSS!~~ ✔️
+- 🥅 Goals:
+  - 2023: ~~Learn Next.js + Tailwind CSS!~~ ✔️ (bonus credit: ~~learn Go by doing a few days of Advant of Code in Go~~ ✔️)
+  - 2024: Learn React Native 
 - ⚡ Fun fact: I love to play guitar, watch horror movies and do anything on the water: sailing, free diving and scuba diving.
 
 ### Connect with me
