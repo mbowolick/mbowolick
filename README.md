@@ -2,7 +2,7 @@
 
 ### I'm a designer, frontend, analyst, architect and nature lover🌳 !
 
-My favourite techologies at the moment I love working in are React/TS, NextJS and Tailwind. I’m a Sydney based with 10 plus years of experience in the digital and tech industry with a tertiary education background in Information Technology and Applied Mathematics. Currently I work for Uber as a Partner Engineer helping scalably empower our merchants to adopt Uber’s products and services to derive optimal business value.
+My favourite techologies at the moment I love working in are React/TS, NextJS and Tailwind. I’m a Sydney based with 10 plus years of experience in the digital and tech industry with a tertiary education background in Information Technology and Applied Mathematics. Currently I work for Canva as a Software Engineer in the Ecosystem DX team helping 3rd party developers build the best Canva App's in the land.
 
 - 🤩 Obsessed with design, UX and different frontend technologies
 - 🎓 Masters in Mathematics and bachelor's in Computer Science
